@@ -1,0 +1,21 @@
+.inputBlock {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.inputLabel {
+    font-weight: bold;
+    color: #2699FB;
+    margin-bottom: 8px;
+}
+
+.inputField {
+    height: 50px;
+    border: 1px solid #BCE0FD;
+    border-radius: 5px;
+    background-color: #F1F9FF;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
